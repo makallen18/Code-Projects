@@ -1,8 +1,6 @@
 /*
 
-I will be creating a text	converter.		
-I	will	create	an	application	that	will	have	a	
-series of	button	controls.	One	control	will	convert	text	to	lowercase and
+This is a text converter in Java This application	has a	series of	button	controls.	One	control	will	convert	text	to	lowercase and
 the other	will	convert	them	into	their	position	within	the	alphabet. For example a=1.
 */
 import javafx.application.Application;
